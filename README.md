@@ -379,8 +379,4 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 liyongxing@sleet MINGW64 /d/temp/gitpro (master)
 $ git add .
-warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
-
-liyongxing@sleet MINGW64 /d/temp/gitpro (master)
-$
-
+warning: in the working copy of 'README.md', LF will be replaced 
